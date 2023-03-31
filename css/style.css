@@ -9,6 +9,23 @@
   padding: 2em;
   text-align: left;
 text-transform: uppercase;
+text-align: justify;
+
+}
+
+.flex{
+text-align: center;
+}
+
+.logo{
+width: 60vh;
+margin-top: 20%;
+}
+
+.acheter{
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  
 }
 
 .carouselExemple {
