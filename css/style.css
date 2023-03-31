@@ -14,7 +14,7 @@ text-align: justify;
 }
 
 .flex{
-text-align: center;
+text-align: center; 
 }
 
 .logo{
@@ -25,7 +25,9 @@ margin-top: 20%;
 .acheter{
   color: rgb(255, 255, 255);
   text-transform: uppercase;
-  
+  background-color: #f06414;
+  font-weight: bold;
+align-self: hover; background-color: #f06414;
 }
 
 .carouselExemple {
