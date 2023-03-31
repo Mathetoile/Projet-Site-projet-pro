@@ -1,11 +1,18 @@
 .main {
-    background-image: url(../img/back.jpg);
+    background-image: url(../img/bg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   height: 100vh;
+
+  color: #ffffff;
+  padding: 2em;
+  text-align: left;
+text-transform: uppercase;
 }
 
-
+.carouselExemple {
+  height: 100vh;
+}
 
 
